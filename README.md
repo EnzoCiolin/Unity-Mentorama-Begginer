@@ -11,4 +11,4 @@ Primeira atividade do módulo:<br/>
 Ambientalizar-se na ferramenta unity: hierarquia, cena, layout.<br/>
 [Arquivos da Atividade](https://github.com/EnzoCiolin/Unity-Mentorama-Begginer/blob/main/Files/modulo1/Modulo_1.unitypackage)
 
-<img src="Files/modulo1/Modelo1.pmg" alt="project"/>
+<img src="Files/modulo1/Modelo1.png" alt="project"/>
